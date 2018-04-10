@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<div>
+  Kitchen is here and let get cooking
+  <div>
+    Keeps My buns warm
+  </div>
+  <div>
+    Fryer Cooks Food
+  </div>
+</div>
+`;
